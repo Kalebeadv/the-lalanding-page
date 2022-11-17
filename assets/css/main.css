@@ -478,19 +478,19 @@ header #menu-btn:hover{
 }
 
  .skill-item.item1 .box:nth-child(1) .progress-bar span{
-    width:95%;
+    width:100%;
 }
 
  .skill-item.item1 .box:nth-child(2) .progress-bar span{
-    width:90%;
+    width:95%;
 }
 
  .skill-item.item1 .box:nth-child(3) .progress-bar span{
-    width:85%;
+    width:90%;
 }
 
 .skill-item.item2 .box:nth-child(1) .progress-bar span{
-    width:100%;
+    width:75%;
 }
 
  .skill-item.item2 .box:nth-child(2) .progress-bar span{
